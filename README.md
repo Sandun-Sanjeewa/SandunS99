@@ -1,5 +1,5 @@
 #SandunS99
-This is the hom page of SandunS99
+This is the home page of SandunS99
 
 
 <!--
